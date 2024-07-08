@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.after-line::after {
+    @apply content-[""] absolute top-1/2  w-9 h-[2px] bg-[#FEA116] ml-2;
+  }
