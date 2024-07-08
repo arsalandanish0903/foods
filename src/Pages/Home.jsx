@@ -7,7 +7,7 @@ function Home() {
     return (
         <>
             <div className='relative h-screen w-full overflow-hidden'>
-                <div className='bg-[url("/bg-hero.jpg")] bg-cover bg-center h-full w-full absolute top-0'>
+                <div className='bg-[url("../public/images/bg-hero.jpg")] bg-cover bg-center h-full w-full absolute top-0'>
                     <div className='bg-black bg-opacity-70 h-full w-full absolute top-0'></div>
                     <div className='p-8 md:p-16 relative w-full flex flex-col md:flex-row md:items-center h-full'>
                         <div className='md:w-1/2 mb-6 md:mb-0 md:mr-3 mt-24'>
@@ -18,7 +18,7 @@ function Home() {
                         <div className='md:w-1/2 flex justify-center md:p-11'>
                             <img
                                 className='w-3/4 md:w-full h-auto object-cover animate-imgRotate'
-                                src="../public/hero.png"
+                                src="../public/images/hero.png"
                                 alt="Hero Image"
                             />
                         </div>

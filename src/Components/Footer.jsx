@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-gray-800 text-white p-6 md:flex md:items-center md:justify-between">
       <div className="flex items-center mb-4 md:mb-0">
-        <img src="../public/resturant.jpg" alt="Footer Image" className="w-16 h-16 mr-4"/>
+        <img src="../public/images/resturant.jpg" alt="Footer Image" className="w-16 h-16 mr-4"/>
         <div>
           <h4 className="text-lg font-bold">My Restaurant</h4>
           <p>Delicious food, great atmosphere</p>
