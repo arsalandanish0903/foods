@@ -36,7 +36,7 @@ const ContactForm = () => {
       <div className="flex flex-wrap max-w-4xl mx-auto shadow-lg rounded-lg overflow-hidden bg-white">
       <div className="w-full lg:w-1/2">
         <img
-          src="./public/images/ContactUpdate.jpg"
+          src="public/images/ContactUpdate.jpg"
           alt="Delicious food"
           className="object-cover w-full h-full"
         />

@@ -6,10 +6,10 @@ import React from 'react'
 
 function Image() {
     const images = [
-        { src: './public/images/about1.jpg', alt: 'About Image 1' },
-        { src: './public/images/about2.jpg', alt: 'About Image 1' },
-        { src: './public/images/about3.jpg', alt: 'About Image 1' },
-        { src: './public/images/about4.jpg', alt: 'About Image 1' }
+        { src: 'public/images/about1.jpg', alt: 'About Image 1' },
+        { src: 'public/images/about2.jpg', alt: 'About Image 1' },
+        { src: 'public/images/about3.jpg', alt: 'About Image 1' },
+        { src: 'public/images/about4.jpg', alt: 'About Image 1' }
     ]
     return (
         <>
